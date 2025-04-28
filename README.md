@@ -14,3 +14,18 @@ This site was created to showcase my skills, projects, and journey in the world 
 - JavaScript (Vanilla)
 
 ## 📂 Project Structure
+
+
+## 🧩 Future Improvements
+- Add "About Me", "Skills", "Projects", and "Contact" sections
+- Improve SEO with meta tags
+- Make the site fully responsive for all devices
+
+## 📬 Contact
+Feel free to connect with me:
+- [GitHub](https://github.com/codingmento)
+- [LinkedIn](https://www.linkedin.com/in/asmaa-adass-a798a435b/)
+
+---
+
+© 2025 Asmaa | All rights reserved.
